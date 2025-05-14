@@ -1,5 +1,6 @@
 # Ex-02-Creating-a-Warehouse-Application-in-SalesForce.com
-
+# NAME : YASHWANTH RAJA DURAI V
+# REG : 212222040184
 ## AIM:
 To create a warehouse application in salesforce.com
 
